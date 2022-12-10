@@ -259,7 +259,6 @@ body {
   font-size: 14px;
   font-style: normal;
 }
-
 .white {
   color: var(--tenth-color);
 }
@@ -283,6 +282,9 @@ body {
 .company-contacts .contact-info:active {
   color: var(--second-color);
 }
+.localization-info:hover,
+.localization-info:focus{
+  var(--second-color);}
 
 .projects-list {
   margin-bottom: 50px;
