@@ -283,8 +283,7 @@ body {
   color: var(--second-color);
 }
 .localization-info:hover,
-.localization-info:focus{
-  var(--second-color);}
+.localization-info:focus {color: var(--second-color);}
 
 .projects-list {
   margin-bottom: 50px;
